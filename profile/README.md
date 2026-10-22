@@ -27,6 +27,7 @@ An independent US-based furry technology and software company making specialized
 | **[4SCode](https://4scode.foursynth.org/)** | Under Development | 4SCode is a specialised IDE built for JSON tooling, web development, and Discord bot development, with native theming and deep customization at its core. |
 | **4SHyperText** | Under Development | A drag and drop website builder that exports to clean HTML/CSS/JS. Free and open-source, forever. |
 | **LCVurn** | Under Development | A Windows tool for the creation of Constructed Languages. |
+| **SynthStreet** | Under Development | A free procedural street generation plugin for QGIS v2 and newer |
 
 <div align="center">
 
